@@ -1,4 +1,4 @@
-# Sentora
+# PhreePanel
 
 * Version: 1.0.3
 * [Website](http://sentora.org/)
@@ -7,9 +7,9 @@
 
 ## Description
 
-[Sentora](http://sentora.org) is based on an original fork of ZPanelCP, Sentora is an open-source web hosting control panel written in PHP and is designed to work with with Linux, UNIX and the BSD's.
+[PhreePanel](http://sentora.org) is based on an original fork of ZPanelCP, PhreePanel
+ is an open-source web hosting control panel written in PHP and is designed to work with with Linux, UNIX and the BSD's.
 
-Sentora is developed and maintained by the original ZPanel team members ([ballen](http://bobbyallen.me), tgates, kandrews, motters etc.)
 
 ## Downloading Sentora
 
